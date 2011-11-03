@@ -7,14 +7,6 @@
   <version>1.5.1</version>
   <packaging>jar</packaging>
 
-  <distributionManagement>
-    <repository>
-      <id>processing-core</id>
-      <name>processingCore</name>
-      <url>file://${env.HOME}/lib/sample-mvn-repo</url>
-    </repository>
-  </distributionManagement>
-
   <name>core</name>
   <url>http://code.google.com/p/processing/</url>
 
